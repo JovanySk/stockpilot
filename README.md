@@ -55,4 +55,4 @@ cd InventorySystem_ASPNETCore/client && npm ci && npm run dev
 To run the API without Docker, set `ConnectionStrings__DefaultConnection` (or use `dotnet user-secrets`). No password is committed. The database is migrated and seeded on startup.
 
 ---
-Author: **Jovany Morales del Ángel** · MIT License
+Author: **Jovany Morales del Ángel** · © 2026 All rights reserved.
